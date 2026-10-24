@@ -1,4 +1,4 @@
-# Cel Trencat
+# Cel 
 
 RPG multijugador en 3D de màgia i lluita, d'estil anime, per a navegador.
 Fins a 4 jugadors per sala.
